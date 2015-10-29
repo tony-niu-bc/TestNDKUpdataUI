@@ -9,6 +9,7 @@ Set "android.useDeprecatedNdk=true" in gradle.properties to continue using the c
 Here is how to solve this issue :
 
 Add gradle.properties file to root folder of your project.
+
 Add android.useDeprecatedNdk=true to gradle.properties file.
 
 Here is gradle.properties :
