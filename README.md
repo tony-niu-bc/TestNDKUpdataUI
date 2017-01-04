@@ -17,3 +17,11 @@ Here is gradle.properties :
 android.useDeprecatedNdk=true
 
 And rebuild your project.
+
+Error:Execution failed for task ':app:transformNative_libsWithStripDebugSymbolForDebug'. 
+java.lang.NullPointerException (no error message)
+
+The point is to set both targetSdkVersion and compileSdkVersion to 22"
+
+##Demo
+![](https://github.com/wzhnsc/TestDynamicallyMakeUiElement/blob/master/gif/show.gif)
