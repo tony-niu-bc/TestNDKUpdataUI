@@ -24,4 +24,4 @@ java.lang.NullPointerException (no error message)
 The point is to set both targetSdkVersion and compileSdkVersion to 22"
 
 ##Demo
-![](https://github.com/wzhnsc/TestDynamicallyMakeUiElement/blob/master/gif/show.gif)
+![](https://github.com/wzhnsc/TestNDKUpdataUI/blob/master/gif/show.gif)
